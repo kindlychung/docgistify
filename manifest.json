@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+
+	"name": "DocGistify",
+	"description": "Redirect asciidoc pages on github to docgist.",
+	"version": "1.0",
+
+	"permissions": [
+		"webNavigation"
+	],
+	"icons": {
+		"128": "adoc.png"
+	},
+	"background": {
+		"scripts": ["background.js"]
+	}
+
+}
