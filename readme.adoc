@@ -1,1 +1,9 @@
 = docgistify: A chrome extension for redirecting asciidoc files on github to docgist. 
+
+== Install
+
+1. Clone this repo.
+2. Go to link:chrome://extensions[chrome://extensions] 
+3. Check developer mode.
+4. Click "load unpacked extension".
+5. Choose the repo you downloaded.
